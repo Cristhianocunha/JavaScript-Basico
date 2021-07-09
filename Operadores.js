@@ -46,11 +46,4 @@ console.log(x%=y);
 // e && -> AND
 // Ou || -> O
 
- var num = 5;
 
- if (num === 1){
-    console.log("num é igual a 1")
-}
-else {
-    console.log("num não é igual a 1")
-}
