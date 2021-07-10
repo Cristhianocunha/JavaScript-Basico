@@ -1,6 +1,24 @@
-# header 1
+## Bem vindo! 
 
-Um repostitório de arquivos javaScript que estou **Bold** aprendendo com cursos e tutoriais. 
+Alguns codigos que aprendendo em cursos e tutorias -->> acesse [Code](https://github.com/Cristhianocunha/JavaScript-Basico) 
+
+
+### GIT CLONE
+
+Caso queira baixa tudo faça
+``` git clone  https://github.com/Cristhianocunha/JavaScript-Basico.git
+```
+
+### Contato - Rede Sociais
+
+**bold** INSTAGRAM
+[@cristhianocunha](https://www.instagram.com/cristhianocunha/)
+
+**bold** LINKEDIN
+[cristhianocunha](https://www.instagram.com/cristhianocunha/)
+
+
+
 
 
 
