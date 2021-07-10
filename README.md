@@ -6,8 +6,12 @@ Alguns codigos que aprendendo em cursos e tutorias -->> acesse [Code](https://gi
 ### GIT CLONE
 
 Caso queira baixa tudo faça
+<<<<<<< HEAD
 
 git clone  https://github.com/Cristhianocunha/JavaScript-Basico.git
+=======
+ git clone  https://github.com/Cristhianocunha/JavaScript-Basico.git
+>>>>>>> fedbcaff9209ad0d2333b1f80f413aa27020f4f0
 
 
 ### Contato - Rede Sociais
